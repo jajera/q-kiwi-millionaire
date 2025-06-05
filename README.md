@@ -38,7 +38,7 @@ Easily deployable via GitHub Pages:
 1. Push the project to GitHub
 2. Go to **Settings > Pages**
 3. Set source to `main` branch and root `/`
-4. Access your quiz at `https://jajera.github.io/q-kiwi-millionaire/`
+4. Access your quiz at <https://jajera.github.io/q-kiwi-millionaire/>
 
 ---
 

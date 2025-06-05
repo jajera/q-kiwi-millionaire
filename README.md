@@ -46,7 +46,6 @@ Easily deployable via GitHub Pages:
 
 * [Using Q CLI](docs/using-q-cli.md)
 * [Quiz Structure Prompt](docs/quiz-prompt.md)
-* [Question Set Format](docs/question-format.md)
 
 ---
 

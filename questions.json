@@ -1,0 +1,1371 @@
+{
+  "questions": [
+    {
+      "question": {
+        "en": "What is the indigenous name for New Zealand?",
+        "mi": "He aha te ingoa taketake o Aotearoa?"
+      },
+      "options": [
+        {
+          "en": "Aotearoa",
+          "mi": "Aotearoa"
+        },
+        {
+          "en": "Maoriland",
+          "mi": "Maoriland"
+        },
+        {
+          "en": "Te Ika-a-Māui",
+          "mi": "Te Ika-a-Māui"
+        },
+        {
+          "en": "Zealandia",
+          "mi": "Zealandia"
+        }
+      ],
+      "correct": 0,
+      "category": "History & Culture",
+      "difficulty": 1
+    },
+    {
+      "question": {
+        "en": "What is the capital city of New Zealand?",
+        "mi": "Ko tēhea te tāone matua o Aotearoa?"
+      },
+      "options": [
+        {
+          "en": "Auckland",
+          "mi": "Tāmaki Makaurau"
+        },
+        {
+          "en": "Wellington",
+          "mi": "Te Whanganui-a-Tara"
+        },
+        {
+          "en": "Christchurch",
+          "mi": "Ōtautahi"
+        },
+        {
+          "en": "Hamilton",
+          "mi": "Kirikiriroa"
+        }
+      ],
+      "correct": 1,
+      "category": "Geography",
+      "difficulty": 1
+    },
+    {
+      "question": {
+        "en": "Which bird is flightless and native to New Zealand?",
+        "mi": "He aha te manu kāore e rere ana, nō Aotearoa?"
+      },
+      "options": [
+        {
+          "en": "Tui",
+          "mi": "Tūī"
+        },
+        {
+          "en": "Kiwi",
+          "mi": "Kiwi"
+        },
+        {
+          "en": "Fantail",
+          "mi": "Pīwakawaka"
+        },
+        {
+          "en": "Kea",
+          "mi": "Kea"
+        }
+      ],
+      "correct": 1,
+      "category": "Nature & Wildlife",
+      "difficulty": 1
+    },
+    {
+      "question": {
+        "en": "Where is Milford Sound located?",
+        "mi": "Kei hea a Piopiotahi?"
+      },
+      "options": [
+        {
+          "en": "North Island",
+          "mi": "Te Ika-a-Māui"
+        },
+        {
+          "en": "South Island",
+          "mi": "Te Waipounamu"
+        },
+        {
+          "en": "Stewart Island",
+          "mi": "Rakiura"
+        },
+        {
+          "en": "Chatham Islands",
+          "mi": "Rēkohu"
+        }
+      ],
+      "correct": 1,
+      "category": "Geography",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What fruit shares its name with a native bird?",
+        "mi": "He aha te huarākau e ōrite ana tōna ingoa ki tētahi manu taketake?"
+      },
+      "options": [
+        {
+          "en": "Feijoa",
+          "mi": "Feijoa"
+        },
+        {
+          "en": "Kiwifruit",
+          "mi": "Kiwifruit"
+        },
+        {
+          "en": "Tamarillo",
+          "mi": "Tamarillo"
+        },
+        {
+          "en": "Passionfruit",
+          "mi": "Passionfruit"
+        }
+      ],
+      "correct": 1,
+      "category": "Nature & Wildlife",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "Which city hosts the annual Warbirds Over Wanaka airshow?",
+        "mi": "Ko tēhea tāone te kaiwhakahaere o te whakaaturanga rererangi Warbirds Over Wanaka?"
+      },
+      "options": [
+        {
+          "en": "Queenstown",
+          "mi": "Tāhuna"
+        },
+        {
+          "en": "Wanaka",
+          "mi": "Wānaka"
+        },
+        {
+          "en": "Dunedin",
+          "mi": "Ōtepoti"
+        },
+        {
+          "en": "Invercargill",
+          "mi": "Waihōpai"
+        }
+      ],
+      "correct": 1,
+      "category": "Tourism & Attractions",
+      "difficulty": 3
+    },
+    {
+      "question": {
+        "en": "What does 'Kia ora' mean?",
+        "mi": "He aha te tikanga o 'Kia ora'?"
+      },
+      "options": [
+        {
+          "en": "Hello",
+          "mi": "Tēnā koe"
+        },
+        {
+          "en": "Thank you",
+          "mi": "Ngā mihi"
+        },
+        {
+          "en": "Goodbye",
+          "mi": "Ka kite anō"
+        },
+        {
+          "en": "Welcome",
+          "mi": "Nau mai"
+        }
+      ],
+      "correct": 0,
+      "category": "Language & General Knowledge",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What tree blooms bright red around Christmas time in New Zealand?",
+        "mi": "He aha te rākau e whero ana i te wā o te Kirihimete i Aotearoa?"
+      },
+      "options": [
+        {
+          "en": "Kauri",
+          "mi": "Kauri"
+        },
+        {
+          "en": "Rimu",
+          "mi": "Rimu"
+        },
+        {
+          "en": "Pōhutukawa",
+          "mi": "Pōhutukawa"
+        },
+        {
+          "en": "Totara",
+          "mi": "Tōtara"
+        }
+      ],
+      "correct": 2,
+      "category": "Nature & Wildlife",
+      "difficulty": 3
+    },
+    {
+      "question": {
+        "en": "Where can you visit Hobbiton?",
+        "mi": "Kei hea te wāhi toro ai a Hobbiton?"
+      },
+      "options": [
+        {
+          "en": "Matamata",
+          "mi": "Matamata"
+        },
+        {
+          "en": "Rotorua",
+          "mi": "Rotorua"
+        },
+        {
+          "en": "Taupo",
+          "mi": "Taupō"
+        },
+        {
+          "en": "Wellington",
+          "mi": "Te Whanganui-a-Tara"
+        }
+      ],
+      "correct": 0,
+      "category": "Tourism & Attractions",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "Who was the first European to sight New Zealand?",
+        "mi": "Ko wai te Pākehā tuatahi i kite i Aotearoa?"
+      },
+      "options": [
+        {
+          "en": "James Cook",
+          "mi": "James Cook"
+        },
+        {
+          "en": "Abel Tasman",
+          "mi": "Abel Tasman"
+        },
+        {
+          "en": "Charles Darwin",
+          "mi": "Charles Darwin"
+        },
+        {
+          "en": "William Hobson",
+          "mi": "William Hobson"
+        }
+      ],
+      "correct": 1,
+      "category": "History & Culture",
+      "difficulty": 3
+    },
+    {
+      "question": {
+        "en": "What geothermal city is famous for geysers and mud pools?",
+        "mi": "Ko tēhea tāone ngāwhā e rongonui ana mō ngā puia me ngā puna waipara?"
+      },
+      "options": [
+        {
+          "en": "Taupo",
+          "mi": "Taupō"
+        },
+        {
+          "en": "Rotorua",
+          "mi": "Rotorua"
+        },
+        {
+          "en": "Hamilton",
+          "mi": "Kirikiriroa"
+        },
+        {
+          "en": "Napier",
+          "mi": "Ahuriri"
+        }
+      ],
+      "correct": 1,
+      "category": "Tourism & Attractions",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What does the koru symbol represent?",
+        "mi": "He aha te tikanga o te tohu koru?"
+      },
+      "options": [
+        {
+          "en": "Strength",
+          "mi": "Kaha"
+        },
+        {
+          "en": "New life and growth",
+          "mi": "Oranga hou me te tipu"
+        },
+        {
+          "en": "Ocean waves",
+          "mi": "Ngaru moana"
+        },
+        {
+          "en": "Mountain peaks",
+          "mi": "Tihi maunga"
+        }
+      ],
+      "correct": 1,
+      "category": "Language & General Knowledge",
+      "difficulty": 3
+    },
+    {
+      "question": {
+        "en": "What are the two main islands of New Zealand?",
+        "mi": "Ko ēhea ngā motu matua e rua o Aotearoa?"
+      },
+      "options": [
+        {
+          "en": "North and South Island",
+          "mi": "Te Ika-a-Māui me Te Waipounamu"
+        },
+        {
+          "en": "East and West Island",
+          "mi": "Motu Rāwhiti me Motu Uru"
+        },
+        {
+          "en": "Great and Little Island",
+          "mi": "Motu Nui me Motu Iti"
+        },
+        {
+          "en": "Major and Minor Island",
+          "mi": "Motu Matua me Motu Iti"
+        }
+      ],
+      "correct": 0,
+      "category": "Geography",
+      "difficulty": 1
+    },
+    {
+      "question": {
+        "en": "In which year did New Zealand become a dominion?",
+        "mi": "I tēhea tau i noho a Aotearoa hei dominion?"
+      },
+      "options": [
+        {
+          "en": "1840",
+          "mi": "1840"
+        },
+        {
+          "en": "1893",
+          "mi": "1893"
+        },
+        {
+          "en": "1907",
+          "mi": "1907"
+        },
+        {
+          "en": "1947",
+          "mi": "1947"
+        }
+      ],
+      "correct": 2,
+      "category": "History & Culture",
+      "difficulty": 4
+    },
+    {
+      "question": {
+        "en": "Which island is Rotorua located on?",
+        "mi": "Kei tēhea motu a Rotorua?"
+      },
+      "options": [
+        {
+          "en": "South Island",
+          "mi": "Te Waipounamu"
+        },
+        {
+          "en": "North Island",
+          "mi": "Te Ika-a-Māui"
+        },
+        {
+          "en": "Stewart Island",
+          "mi": "Rakiura"
+        },
+        {
+          "en": "Waiheke Island",
+          "mi": "Waiheke"
+        }
+      ],
+      "correct": 1,
+      "category": "Geography",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is New Zealand's highest mountain?",
+        "mi": "Ko tēhea te maunga teitei rawa o Aotearoa?"
+      },
+      "options": [
+        {
+          "en": "Mount Cook / Aoraki",
+          "mi": "Aoraki"
+        },
+        {
+          "en": "Mount Taranaki",
+          "mi": "Taranaki"
+        },
+        {
+          "en": "Mount Ruapehu",
+          "mi": "Ruapehu"
+        },
+        {
+          "en": "Mount Aspiring",
+          "mi": "Tititea"
+        }
+      ],
+      "correct": 0,
+      "category": "Geography",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the name of New Zealand's national rugby team?",
+        "mi": "Ko wai te ingoa o te tīma whutupōro ā-motu o Aotearoa?"
+      },
+      "options": [
+        {
+          "en": "All Blacks",
+          "mi": "All Blacks"
+        },
+        {
+          "en": "Kiwis",
+          "mi": "Kiwis"
+        },
+        {
+          "en": "Silver Ferns",
+          "mi": "Silver Ferns"
+        },
+        {
+          "en": "Black Caps",
+          "mi": "Black Caps"
+        }
+      ],
+      "correct": 0,
+      "category": "Sports & Entertainment",
+      "difficulty": 1
+    },
+    {
+      "question": {
+        "en": "Which famous director from New Zealand directed The Lord of the Rings trilogy?",
+        "mi": "Ko wai te kaiwhakahau rongonui nō Aotearoa i whakahaere i te The Lord of the Rings trilogy?"
+      },
+      "options": [
+        {
+          "en": "Taika Waititi",
+          "mi": "Taika Waititi"
+        },
+        {
+          "en": "Peter Jackson",
+          "mi": "Peter Jackson"
+        },
+        {
+          "en": "Jane Campion",
+          "mi": "Jane Campion"
+        },
+        {
+          "en": "Andrew Niccol",
+          "mi": "Andrew Niccol"
+        }
+      ],
+      "correct": 1,
+      "category": "Sports & Entertainment",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the traditional Māori war dance performed by the All Blacks?",
+        "mi": "He aha te haka tuku iho a te Māori e whakahaeretia ana e ngā All Blacks?"
+      },
+      "options": [
+        {
+          "en": "Poi",
+          "mi": "Poi"
+        },
+        {
+          "en": "Waiata",
+          "mi": "Waiata"
+        },
+        {
+          "en": "Haka",
+          "mi": "Haka"
+        },
+        {
+          "en": "Hongi",
+          "mi": "Hongi"
+        }
+      ],
+      "correct": 2,
+      "category": "Sports & Entertainment",
+      "difficulty": 1
+    },
+    {
+      "question": {
+        "en": "What is the name of New Zealand's national anthem?",
+        "mi": "Ko wai te ingoa o te waiata ā-motu o Aotearoa?"
+      },
+      "options": [
+        {
+          "en": "God Save the Queen",
+          "mi": "God Save the Queen"
+        },
+        {
+          "en": "God Defend New Zealand",
+          "mi": "Aotearoa"
+        },
+        {
+          "en": "Land of the Long White Cloud",
+          "mi": "Te Ao Mārama"
+        },
+        {
+          "en": "Fair New Zealand",
+          "mi": "Aotearoa Ataahua"
+        }
+      ],
+      "correct": 1,
+      "category": "History & Culture",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the currency of New Zealand?",
+        "mi": "He aha te moni o Aotearoa?"
+      },
+      "options": [
+        {
+          "en": "New Zealand Dollar",
+          "mi": "Tāra o Aotearoa"
+        },
+        {
+          "en": "New Zealand Pound",
+          "mi": "Pāuna o Aotearoa"
+        },
+        {
+          "en": "New Zealand Euro",
+          "mi": "Euro o Aotearoa"
+        },
+        {
+          "en": "New Zealand Franc",
+          "mi": "Franc o Aotearoa"
+        }
+      ],
+      "correct": 0,
+      "category": "General Knowledge",
+      "difficulty": 1
+    },
+    {
+      "question": {
+        "en": "Which famous New Zealand scientist discovered the structure of the atom?",
+        "mi": "Ko wai te kaiputaiao rongonui nō Aotearoa i kite i te hanganga o te ngota?"
+      },
+      "options": [
+        {
+          "en": "Ernest Rutherford",
+          "mi": "Ernest Rutherford"
+        },
+        {
+          "en": "William Pickering",
+          "mi": "William Pickering"
+        },
+        {
+          "en": "Maurice Wilkins",
+          "mi": "Maurice Wilkins"
+        },
+        {
+          "en": "Alan MacDiarmid",
+          "mi": "Alan MacDiarmid"
+        }
+      ],
+      "correct": 0,
+      "category": "History & Culture",
+      "difficulty": 3
+    },
+    {
+      "question": {
+        "en": "What is the name of the strait that separates the North and South Islands?",
+        "mi": "Ko wai te ingoa o te moana e wehea ana Te Ika-a-Māui me Te Waipounamu?"
+      },
+      "options": [
+        {
+          "en": "Foveaux Strait",
+          "mi": "Te Ara a Kiwa"
+        },
+        {
+          "en": "Cook Strait",
+          "mi": "Te Moana o Raukawa"
+        },
+        {
+          "en": "Hauraki Gulf",
+          "mi": "Tīkapa Moana"
+        },
+        {
+          "en": "Bass Strait",
+          "mi": "Bass Strait"
+        }
+      ],
+      "correct": 1,
+      "category": "Geography",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the Māori name for the Southern Alps?",
+        "mi": "He aha te ingoa Māori mō ngā Southern Alps?"
+      },
+      "options": [
+        {
+          "en": "Te Tiritiri o te Moana",
+          "mi": "Te Tiritiri o te Moana"
+        },
+        {
+          "en": "Kā Tiritiri o te Moana",
+          "mi": "Kā Tiritiri o te Moana"
+        },
+        {
+          "en": "Te Matau a Māui",
+          "mi": "Te Matau a Māui"
+        },
+        {
+          "en": "Aoraki",
+          "mi": "Aoraki"
+        }
+      ],
+      "correct": 1,
+      "category": "Geography",
+      "difficulty": 3
+    },
+    {
+      "question": {
+        "en": "Which native New Zealand bird is known for its distinctive call that sounds like laughter?",
+        "mi": "Ko tēhea manu taketake o Aotearoa e mōhiotia ana mō tōna tangi rite ki te kata?"
+      },
+      "options": [
+        {
+          "en": "Tui",
+          "mi": "Tūī"
+        },
+        {
+          "en": "Kea",
+          "mi": "Kea"
+        },
+        {
+          "en": "Kiwi",
+          "mi": "Kiwi"
+        },
+        {
+          "en": "Kookaburra",
+          "mi": "Kookaburra"
+        }
+      ],
+      "correct": 0,
+      "category": "Nature & Wildlife",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the name of New Zealand's indigenous people?",
+        "mi": "Ko wai te ingoa o ngā tāngata whenua o Aotearoa?"
+      },
+      "options": [
+        {
+          "en": "Māori",
+          "mi": "Māori"
+        },
+        {
+          "en": "Aboriginal",
+          "mi": "Aboriginal"
+        },
+        {
+          "en": "Pasifika",
+          "mi": "Pasifika"
+        },
+        {
+          "en": "Polynesian",
+          "mi": "Polynesian"
+        }
+      ],
+      "correct": 0,
+      "category": "History & Culture",
+      "difficulty": 1
+    },
+    {
+      "question": {
+        "en": "What is the name of the treaty signed between Māori chiefs and the British Crown in 1840?",
+        "mi": "Ko wai te ingoa o te tiriti i hainatia e ngā rangatira Māori me te Karauna o Ingarangi i te tau 1840?"
+      },
+      "options": [
+        {
+          "en": "Treaty of Versailles",
+          "mi": "Treaty of Versailles"
+        },
+        {
+          "en": "Treaty of Waitangi",
+          "mi": "Te Tiriti o Waitangi"
+        },
+        {
+          "en": "Treaty of Auckland",
+          "mi": "Treaty of Auckland"
+        },
+        {
+          "en": "Treaty of Wellington",
+          "mi": "Treaty of Wellington"
+        }
+      ],
+      "correct": 1,
+      "category": "History & Culture",
+      "difficulty": 1
+    },
+    {
+      "question": {
+        "en": "Which New Zealand city is known as the 'Edinburgh of the South'?",
+        "mi": "Ko tēhea tāone o Aotearoa e mōhiotia ana ko te 'Edinburgh of the South'?"
+      },
+      "options": [
+        {
+          "en": "Christchurch",
+          "mi": "Ōtautahi"
+        },
+        {
+          "en": "Wellington",
+          "mi": "Te Whanganui-a-Tara"
+        },
+        {
+          "en": "Dunedin",
+          "mi": "Ōtepoti"
+        },
+        {
+          "en": "Invercargill",
+          "mi": "Waihōpai"
+        }
+      ],
+      "correct": 2,
+      "category": "Geography",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the largest lake in New Zealand?",
+        "mi": "Ko tēhea te roto nui rawa i Aotearoa?"
+      },
+      "options": [
+        {
+          "en": "Lake Wakatipu",
+          "mi": "Wakatipu"
+        },
+        {
+          "en": "Lake Taupo",
+          "mi": "Taupō"
+        },
+        {
+          "en": "Lake Wanaka",
+          "mi": "Wānaka"
+        },
+        {
+          "en": "Lake Te Anau",
+          "mi": "Te Anau"
+        }
+      ],
+      "correct": 1,
+      "category": "Geography",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "Which famous New Zealand mountaineer was the first to climb Mount Everest?",
+        "mi": "Ko wai te kaipiki maunga rongonui nō Aotearoa i piki tuatahi i a Maunga Everest?"
+      },
+      "options": [
+        {
+          "en": "Sir Edmund Hillary",
+          "mi": "Sir Edmund Hillary"
+        },
+        {
+          "en": "Tenzing Norgay",
+          "mi": "Tenzing Norgay"
+        },
+        {
+          "en": "Rob Hall",
+          "mi": "Rob Hall"
+        },
+        {
+          "en": "Peter Whittaker",
+          "mi": "Peter Whittaker"
+        }
+      ],
+      "correct": 0,
+      "category": "Sports & Entertainment",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the name of the flightless parrot native to New Zealand?",
+        "mi": "Ko wai te ingoa o te kākāpō kāore e rere ana, nō Aotearoa?"
+      },
+      "options": [
+        {
+          "en": "Kea",
+          "mi": "Kea"
+        },
+        {
+          "en": "Kakapo",
+          "mi": "Kākāpō"
+        },
+        {
+          "en": "Kaka",
+          "mi": "Kākā"
+        },
+        {
+          "en": "Kereru",
+          "mi": "Kererū"
+        }
+      ],
+      "correct": 1,
+      "category": "Nature & Wildlife",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the Māori name for New Zealand's North Island?",
+        "mi": "He aha te ingoa Māori mō Te Ika-a-Māui?"
+      },
+      "options": [
+        {
+          "en": "Te Waipounamu",
+          "mi": "Te Waipounamu"
+        },
+        {
+          "en": "Te Ika-a-Māui",
+          "mi": "Te Ika-a-Māui"
+        },
+        {
+          "en": "Rakiura",
+          "mi": "Rakiura"
+        },
+        {
+          "en": "Rekohu",
+          "mi": "Rēkohu"
+        }
+      ],
+      "correct": 1,
+      "category": "Geography",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the Māori name for New Zealand's South Island?",
+        "mi": "He aha te ingoa Māori mō Te Waipounamu?"
+      },
+      "options": [
+        {
+          "en": "Te Waipounamu",
+          "mi": "Te Waipounamu"
+        },
+        {
+          "en": "Te Ika-a-Māui",
+          "mi": "Te Ika-a-Māui"
+        },
+        {
+          "en": "Rakiura",
+          "mi": "Rakiura"
+        },
+        {
+          "en": "Rekohu",
+          "mi": "Rēkohu"
+        }
+      ],
+      "correct": 0,
+      "category": "Geography",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the name of the famous 53.5 km walking track on Stewart Island?",
+        "mi": "Ko wai te ingoa o te ara hīkoi rongonui 53.5 km i Rakiura?"
+      },
+      "options": [
+        {
+          "en": "Milford Track",
+          "mi": "Milford Track"
+        },
+        {
+          "en": "Routeburn Track",
+          "mi": "Routeburn Track"
+        },
+        {
+          "en": "Rakiura Track",
+          "mi": "Rakiura Track"
+        },
+        {
+          "en": "Kepler Track",
+          "mi": "Kepler Track"
+        }
+      ],
+      "correct": 2,
+      "category": "Tourism & Attractions",
+      "difficulty": 3
+    },
+    {
+      "question": {
+        "en": "Which New Zealand city was devastated by earthquakes in 2010 and 2011?",
+        "mi": "Ko tēhea tāone o Aotearoa i pāngia e ngā rū whenua i te tau 2010 me 2011?"
+      },
+      "options": [
+        {
+          "en": "Wellington",
+          "mi": "Te Whanganui-a-Tara"
+        },
+        {
+          "en": "Auckland",
+          "mi": "Tāmaki Makaurau"
+        },
+        {
+          "en": "Christchurch",
+          "mi": "Ōtautahi"
+        },
+        {
+          "en": "Dunedin",
+          "mi": "Ōtepoti"
+        }
+      ],
+      "correct": 2,
+      "category": "History & Culture",
+      "difficulty": 1
+    },
+    {
+      "question": {
+        "en": "What is the name of New Zealand's longest river?",
+        "mi": "Ko wai te ingoa o te awa roa rawa o Aotearoa?"
+      },
+      "options": [
+        {
+          "en": "Waikato River",
+          "mi": "Waikato"
+        },
+        {
+          "en": "Clutha River",
+          "mi": "Mata-Au"
+        },
+        {
+          "en": "Whanganui River",
+          "mi": "Whanganui"
+        },
+        {
+          "en": "Rangitaiki River",
+          "mi": "Rangitaiki"
+        }
+      ],
+      "correct": 0,
+      "category": "Geography",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the name of the active marine volcano in the Bay of Plenty?",
+        "mi": "Ko wai te ingoa o te puia moana i Te Moana-a-Toi?"
+      },
+      "options": [
+        {
+          "en": "Rangitoto",
+          "mi": "Rangitoto"
+        },
+        {
+          "en": "White Island / Whakaari",
+          "mi": "Whakaari"
+        },
+        {
+          "en": "Mount Taranaki",
+          "mi": "Taranaki"
+        },
+        {
+          "en": "Ruapehu",
+          "mi": "Ruapehu"
+        }
+      ],
+      "correct": 1,
+      "category": "Geography",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the name of the famous glow worm caves in New Zealand?",
+        "mi": "Ko wai te ingoa o ngā ana titiwai rongonui i Aotearoa?"
+      },
+      "options": [
+        {
+          "en": "Ruakuri Caves",
+          "mi": "Ruakuri"
+        },
+        {
+          "en": "Ngarua Caves",
+          "mi": "Ngarua"
+        },
+        {
+          "en": "Waitomo Caves",
+          "mi": "Waitomo"
+        },
+        {
+          "en": "Harwood's Hole",
+          "mi": "Harwood's Hole"
+        }
+      ],
+      "correct": 2,
+      "category": "Tourism & Attractions",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the Māori word for 'welcome'?",
+        "mi": "He aha te kupu Māori mō te 'welcome'?"
+      },
+      "options": [
+        {
+          "en": "Haere mai",
+          "mi": "Haere mai"
+        },
+        {
+          "en": "Kia ora",
+          "mi": "Kia ora"
+        },
+        {
+          "en": "Ka pai",
+          "mi": "Ka pai"
+        },
+        {
+          "en": "Tēnā koe",
+          "mi": "Tēnā koe"
+        }
+      ],
+      "correct": 0,
+      "category": "Language & General Knowledge",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "Which New Zealand author wrote 'The Bone People', which won the Booker Prize in 1985?",
+        "mi": "Ko wai te kaituhi nō Aotearoa i tuhi i 'The Bone People', i wikitōria i te Booker Prize i te tau 1985?"
+      },
+      "options": [
+        {
+          "en": "Janet Frame",
+          "mi": "Janet Frame"
+        },
+        {
+          "en": "Keri Hulme",
+          "mi": "Keri Hulme"
+        },
+        {
+          "en": "Eleanor Catton",
+          "mi": "Eleanor Catton"
+        },
+        {
+          "en": "Patricia Grace",
+          "mi": "Patricia Grace"
+        }
+      ],
+      "correct": 1,
+      "category": "Arts & Literature",
+      "difficulty": 3
+    },
+    {
+      "question": {
+        "en": "What is the name of the famous 60km beach in the far north of New Zealand?",
+        "mi": "Ko wai te ingoa o te tai rongonui 60km i te taha raki o Aotearoa?"
+      },
+      "options": [
+        {
+          "en": "Ninety Mile Beach",
+          "mi": "Te Oneroa-a-Tōhē"
+        },
+        {
+          "en": "Piha Beach",
+          "mi": "Piha"
+        },
+        {
+          "en": "Muriwai Beach",
+          "mi": "Muriwai"
+        },
+        {
+          "en": "Karekare Beach",
+          "mi": "Karekare"
+        }
+      ],
+      "correct": 0,
+      "category": "Geography",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the name of the famous fiord in Fiordland National Park?",
+        "mi": "Ko wai te ingoa o te whanga rongonui i te Papa Rēhia o Fiordland?"
+      },
+      "options": [
+        {
+          "en": "Doubtful Sound",
+          "mi": "Patea"
+        },
+        {
+          "en": "Milford Sound",
+          "mi": "Piopiotahi"
+        },
+        {
+          "en": "Dusky Sound",
+          "mi": "Tamatea"
+        },
+        {
+          "en": "Breaksea Sound",
+          "mi": "Te Puaitaha"
+        }
+      ],
+      "correct": 1,
+      "category": "Tourism & Attractions",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the name of the famous hot spring in Rotorua?",
+        "mi": "Ko wai te ingoa o te waiariki rongonui i Rotorua?"
+      },
+      "options": [
+        {
+          "en": "Pohutu Geyser",
+          "mi": "Pohutu"
+        },
+        {
+          "en": "Champagne Pool",
+          "mi": "Waipuna Koropupū"
+        },
+        {
+          "en": "Lady Knox Geyser",
+          "mi": "Lady Knox"
+        },
+        {
+          "en": "Inferno Crater",
+          "mi": "Inferno Crater"
+        }
+      ],
+      "correct": 0,
+      "category": "Tourism & Attractions",
+      "difficulty": 3
+    },
+    {
+      "question": {
+        "en": "What is the name of the famous wine region in the South Island?",
+        "mi": "Ko wai te ingoa o te rohe waina rongonui i Te Waipounamu?"
+      },
+      "options": [
+        {
+          "en": "Hawke's Bay",
+          "mi": "Heretaunga"
+        },
+        {
+          "en": "Marlborough",
+          "mi": "Marlborough"
+        },
+        {
+          "en": "Wairarapa",
+          "mi": "Wairarapa"
+        },
+        {
+          "en": "Gisborne",
+          "mi": "Tūranga-nui-a-Kiwa"
+        }
+      ],
+      "correct": 1,
+      "category": "Food & Agriculture",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the name of the famous walking track in Fiordland National Park?",
+        "mi": "Ko wai te ingoa o te ara hīkoi rongonui i te Papa Rēhia o Fiordland?"
+      },
+      "options": [
+        {
+          "en": "Milford Track",
+          "mi": "Milford Track"
+        },
+        {
+          "en": "Routeburn Track",
+          "mi": "Routeburn Track"
+        },
+        {
+          "en": "Kepler Track",
+          "mi": "Kepler Track"
+        },
+        {
+          "en": "Abel Tasman Coast Track",
+          "mi": "Abel Tasman Coast Track"
+        }
+      ],
+      "correct": 0,
+      "category": "Tourism & Attractions",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the name of the famous waterfall in Milford Sound?",
+        "mi": "Ko wai te ingoa o te rere wai rongonui i Piopiotahi?"
+      },
+      "options": [
+        {
+          "en": "Sutherland Falls",
+          "mi": "Sutherland Falls"
+        },
+        {
+          "en": "Huka Falls",
+          "mi": "Huka Falls"
+        },
+        {
+          "en": "Stirling Falls",
+          "mi": "Stirling Falls"
+        },
+        {
+          "en": "Bowen Falls",
+          "mi": "Bowen Falls"
+        }
+      ],
+      "correct": 3,
+      "category": "Tourism & Attractions",
+      "difficulty": 3
+    },
+    {
+      "question": {
+        "en": "What is the name of the famous glacier on the West Coast of the South Island?",
+        "mi": "Ko wai te ingoa o te hukapapa rongonui i te Tai Poutini o Te Waipounamu?"
+      },
+      "options": [
+        {
+          "en": "Franz Josef Glacier",
+          "mi": "Kā Roimata o Hine Hukatere"
+        },
+        {
+          "en": "Fox Glacier",
+          "mi": "Te Moeka o Tuawe"
+        },
+        {
+          "en": "Tasman Glacier",
+          "mi": "Haupapa"
+        },
+        {
+          "en": "Hooker Glacier",
+          "mi": "Hooker Glacier"
+        }
+      ],
+      "correct": 0,
+      "category": "Geography",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the name of the famous beach in the Coromandel Peninsula?",
+        "mi": "Ko wai te ingoa o te tai rongonui i te Hauraki?"
+      },
+      "options": [
+        {
+          "en": "Hot Water Beach",
+          "mi": "Hot Water Beach"
+        },
+        {
+          "en": "Cathedral Cove",
+          "mi": "Te Whanganui-A-Hei"
+        },
+        {
+          "en": "Whangamata Beach",
+          "mi": "Whangamatā"
+        },
+        {
+          "en": "Hahei Beach",
+          "mi": "Hahei"
+        }
+      ],
+      "correct": 0,
+      "category": "Tourism & Attractions",
+      "difficulty": 2
+    },
+    {
+      "question": {
+        "en": "What is the name of the famous Māori meeting house in Rotorua?",
+        "mi": "Ko wai te ingoa o te whare tūpuna rongonui i Rotorua?"
+      },
+      "options": [
+        {
+          "en": "Te Whare Rūnanga",
+          "mi": "Te Whare Rūnanga"
+        },
+        {
+          "en": "Tamatekapua",
+          "mi": "Tamatekapua"
+        },
+        {
+          "en": "Raukawa",
+          "mi": "Raukawa"
+        },
+        {
+          "en": "Hotunui",
+          "mi": "Hotunui"
+        }
+      ],
+      "correct": 1,
+      "category": "History & Culture",
+      "difficulty": 3
+    },
+    {
+      "question": {
+        "en": "What is the name of the famous Māori war canoe?",
+        "mi": "Ko wai te ingoa o te waka taua Māori rongonui?"
+      },
+      "options": [
+        {
+          "en": "Ngatokimatawhaorua",
+          "mi": "Ngātokimatawhaorua"
+        },
+        {
+          "en": "Te Toki a Tapiri",
+          "mi": "Te Toki a Tapiri"
+        },
+        {
+          "en": "Aotea",
+          "mi": "Aotea"
+        },
+        {
+          "en": "Tainui",
+          "mi": "Tainui"
+        }
+      ],
+      "correct": 0,
+      "category": "History & Culture",
+      "difficulty": 4
+    }
+  ],
+  "prizes": [
+    "100",
+    "200",
+    "300",
+    "500",
+    "1,000",
+    "2,000",
+    "4,000",
+    "8,000",
+    "16,000",
+    "32,000",
+    "64,000",
+    "125,000",
+    "250,000",
+    "500,000",
+    "1,000,000"
+  ]
+}

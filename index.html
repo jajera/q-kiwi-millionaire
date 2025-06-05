@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kiwi Quiz Challenge - Who Wants to Be a Millionaire</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Comic+Neue:wght@700&display=swap" rel="stylesheet">
+    <meta name="description" content="Test your knowledge about Aotearoa New Zealand in this Who Wants to Be a Millionaire style quiz game.">
+</head>
+<body>
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+
+    <div class="game-container" id="main-content">
+        <header>
+            <h1>Kiwi Quiz Challenge</h1>
+            <div class="language-toggle" role="group" aria-label="Language selection">
+                <button id="lang-en" class="active" aria-pressed="true" aria-label="English">English</button>
+                <button id="lang-mi" aria-pressed="false" aria-label="Te Reo Māori">Te Reo Māori</button>
+            </div>
+        </header>
+
+        <!-- Welcome Screen -->
+        <section id="welcome-screen" class="screen active">
+            <div class="welcome-content">
+                <h2>Who Wants to Be a Millionaire?</h2>
+                <p>Test your knowledge about Aotearoa New Zealand in this classic quiz format!</p>
+                <p>Answer 15 questions correctly to win the million-dollar prize. You'll have three lifelines to help you along the way.</p>
+                <button id="start-game" class="primary-btn">Start Quiz</button>
+            </div>
+        </section>
+
+        <!-- Game Screen -->
+        <section id="game-screen" class="screen">
+            <div class="prize-ladder">
+                <h3>Prize Ladder</h3>
+                <ul id="prize-list"></ul>
+            </div>
+
+            <div class="game-content">
+                <div class="game-header">
+                    <div class="question-info">
+                        <span id="question-number" aria-live="polite">Question 1</span>
+                        <span id="prize-amount" aria-live="polite" aria-label="Current prize amount">$100</span>
+                    </div>
+                </div>
+                <div class="lifelines" role="group" aria-label="Available lifelines">
+                    <button id="fifty-fifty" class="lifeline-btn" aria-label="Use fifty-fifty lifeline to remove two incorrect answers" title="50:50 - Remove two incorrect answers">
+                        <span>50:50</span>
+                    </button>
+                    <button id="ask-audience" class="lifeline-btn" aria-label="Use ask the audience lifeline to see audience poll results" title="Ask the Audience - See what the audience thinks">
+                        <span>👥</span>
+                    </button>
+                    <button id="phone-friend" class="lifeline-btn" aria-label="Use phone a friend lifeline to get advice from a friend" title="Phone a Friend - Get advice from a friend">
+                        <span>📞</span>
+                    </button>
+                    <button id="withdraw-btn" class="withdraw-btn" aria-label="Withdraw from the game with current winnings" title="Take your current winnings and end the game">
+                        Withdraw
+                    </button>
+                </div>
+
+                <div class="question-container">
+                    <p id="question-text" aria-live="polite" role="heading" aria-level="3"></p>
+                    <div class="options-container" role="group" aria-label="Answer options">
+                        <button class="option-btn" id="option-0" aria-label="Option A" data-option="A"></button>
+                        <button class="option-btn" id="option-1" aria-label="Option B" data-option="B"></button>
+                        <button class="option-btn" id="option-2" aria-label="Option C" data-option="C"></button>
+                        <button class="option-btn" id="option-3" aria-label="Option D" data-option="D"></button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Audience Results Modal -->
+            <div id="audience-results" class="audience-results" role="dialog" aria-labelledby="audience-results-title" aria-modal="true">
+                <h3 id="audience-results-title">Audience Results</h3>
+                <div class="result-bars">
+                    <div class="result-bar">
+                        <div class="label">A</div>
+                        <div class="bar-container">
+                            <div id="audience-0" class="bar"></div>
+                            <span id="audience-percent-0" class="percentage">0%</span>
+                        </div>
+                    </div>
+                    <div class="result-bar">
+                        <div class="label">B</div>
+                        <div class="bar-container">
+                            <div id="audience-1" class="bar"></div>
+                            <span id="audience-percent-1" class="percentage">0%</span>
+                        </div>
+                    </div>
+                    <div class="result-bar">
+                        <div class="label">C</div>
+                        <div class="bar-container">
+                            <div id="audience-2" class="bar"></div>
+                            <span id="audience-percent-2" class="percentage">0%</span>
+                        </div>
+                    </div>
+                    <div class="result-bar">
+                        <div class="label">D</div>
+                        <div class="bar-container">
+                            <div id="audience-3" class="bar"></div>
+                            <span id="audience-percent-3" class="percentage">0%</span>
+                        </div>
+                    </div>
+                </div>
+                <button id="close-audience" class="secondary-btn">Close</button>
+            </div>
+
+            <!-- Phone a Friend Modal -->
+            <div id="phone-friend-modal" class="phone-friend-modal" role="dialog" aria-labelledby="phone-friend-title" aria-modal="true">
+                <h3 id="phone-friend-title">Phone a Friend</h3>
+                <div id="friend-response" class="friend-message"></div>
+                <button id="close-phone" class="secondary-btn">Close</button>
+            </div>
+        </section>
+
+        <!-- Results Screen -->
+        <section id="results-screen" class="screen">
+            <div class="results-content">
+                <h2 id="result-heading">Game Over!</h2>
+                <p id="result-message">Better luck next time!</p>
+                <div id="final-prize">You won: $0</div>
+                <button id="play-again" class="primary-btn">Play Again</button>
+            </div>
+        </section>
+
+        <!-- Feedback Message -->
+        <div id="feedback-message" class="feedback-message" aria-live="assertive"></div>
+    </div>
+
+    <footer>
+        <p>Kiwi Quiz Challenge – A fun way to learn about NZ geography, culture, and wildlife</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
